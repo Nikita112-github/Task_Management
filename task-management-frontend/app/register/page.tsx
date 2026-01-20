@@ -118,7 +118,7 @@ export default function RegisterPage() {
                     type="text"
                     required
                     className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all text-gray-900 placeholder-gray-400"
-                    placeholder="John Doe"
+                    placeholder="Anne Frank"
                     value={formData.name}
                     onChange={(e) =>
                       setFormData({ ...formData, name: e.target.value })

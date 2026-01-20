@@ -4,6 +4,7 @@ import bcrypt from 'bcrypt';
 import { generateAccessToken, generateRefreshToken, verifyRefreshToken } from '../utils/jwt';
 
 const prisma = new PrismaClient();
+export default prisma;
 
 export const register = async (req: Request, res: Response) => {
   try {
