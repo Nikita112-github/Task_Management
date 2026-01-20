@@ -1,29 +1,34 @@
 📝 Task Management System
 
-A full-stack task manager built with Next.js, Node.js, TypeScript, and PostgreSQL.
+- A full-stack task manager built with Next.js, Node.js, TypeScript, and PostgreSQL.
 
 ⚡ Features
 
-🔐 JWT Authentication (Access + Refresh Tokens)
+- JWT Authentication (Access + Refresh Tokens)
 
-✅ Create, Edit, Delete Tasks
+- Create, Edit, Delete Tasks
 
-🔍 Search & Filter Tasks
+- Search & Filter Tasks
 
-📄 Pagination
+- Pagination
 
-📱 Responsive Design
+- Responsive Design
 
 🛠️ Tech Stack
 
-Backend: Node.js, Express, TypeScript, Prisma, PostgreSQL
-Frontend: Next.js 15, TypeScript, Tailwind CSS
+- Backend:- Node.js, Express, TypeScript, Prisma, PostgreSQL
+- Frontend:- Next.js 15, TypeScript, Tailwind CSS
 
 🚀 Quick Start
-Prerequisites
 
-Node.js 18+
-PostgreSQL
+- Node.js 18+
+- PostgreSQL
+
+📸 Screenshots
+<img width="1886" height="818" alt="image" src="https://github.com/user-attachments/assets/94ed06e3-405a-4f75-aae9-a86b3c7437bf" />
+<img width="1790" height="862" alt="image" src="https://github.com/user-attachments/assets/1da8aadf-ea25-44c0-93d2-5845eb19d0e4" />
+<img width="1649" height="802" alt="image" src="https://github.com/user-attachments/assets/ae00860e-cfbf-4470-b64c-32dc719d8659" />
+
 
 📝 API Endpoints
 
